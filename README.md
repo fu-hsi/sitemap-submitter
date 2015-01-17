@@ -1,4 +1,4 @@
-# SitemapSubmitter.php
+# SitemapSubmitter
 Sends a sitemap to Google and Bing search engines.
 ## Usage
 ```php
