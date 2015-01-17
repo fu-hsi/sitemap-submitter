@@ -1,0 +1,21 @@
+{
+    "name": "fu-hsi/sitemap-submitter",
+    "type": "library",
+    "description": "Sends a sitemap to Google and Bing search engines.",
+    "keywords": ["sitemap","google","bing"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mariusz Kacki"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "FuHsi\\sitemap-submitter\\": "src"
+        }
+    }    
+}
