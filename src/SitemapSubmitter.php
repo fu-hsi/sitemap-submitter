@@ -20,6 +20,11 @@ namespace FuHsi\SitemapSubmitter;
 class SitemapSubmitter
 {
 
+    /**
+     *
+     * @param string $sitemapUrl            
+     * @return boolean Returns false if one or more submit fails, true otherwise.
+     */
     static public function submit($sitemapUrl)
     {
         $pingUrls = array(
