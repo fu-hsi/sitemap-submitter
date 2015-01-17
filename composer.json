@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "FuHsi\\sitemap-submitter\\": "src"
+            "FuHsi\\SitemapSubmitter\\": "src"
         }
     }    
 }
